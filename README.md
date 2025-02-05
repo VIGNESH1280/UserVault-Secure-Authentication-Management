@@ -8,12 +8,19 @@ The API supports user registration, login, and retrieval of user data with role-
 🛠️ Features
 
 ✅ User Registration (Sign Up) 🔐
+
 ✅ User Login with JWT Authentication 🔑
+
 ✅ Password Encryption using bcrypt 🔒
+
 ✅ Role-Based Access Control 🏷️
+
 ✅ CRUD operations on Users 📦
+
 ✅ Error Handling & Validation ⚠️
+
 ✅ Secure API Endpoints with Middleware 🛡️
+
 
 
 
